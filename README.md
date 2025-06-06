@@ -14,10 +14,10 @@
 <h3 align="center">📬 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://t.me/your_telegram_username">
+  <a href="https://t.me/VladR24">
     <img src="https://img.shields.io/badge/Telegram-@your_telegram_username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:yourname@gmail.com">
+  <a href="mailto:vladruadov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yourname@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://braverto.com">
