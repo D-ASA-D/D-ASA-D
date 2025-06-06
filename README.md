@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://t.me/VladR24">
-    <img src="https://img.shields.io/badge/Telegram-@your_telegram_username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-@VladR24-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:vladruadov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-yourname@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-vladruadov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://braverto.com">
     <img src="https://img.shields.io/badge/Website-braverto.com-00fff7?style=for-the-badge&logo=google-chrome&logoColor=black" />
