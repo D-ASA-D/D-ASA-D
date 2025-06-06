@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ff&height=120&section=header&text=D-ASA-D&fontColor=000&fontSize=48&desc=CEO%20of%20braverto.com&descSize=18&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ff&height=120&section=header&text=D-ASA-D&fontColor=000&fontSize=48&desc=CEO%20of%20braverto.com%0ANeon%20style%20profile&descSize=18&descAlignY=70"/>
 </p>
 
 <h3 align="center">🚀 Welcome to My GitHub Profile</h3>
