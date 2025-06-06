@@ -42,10 +42,11 @@
 <h3 align="center">🧠 Tech Stack</h3>
 
 <p align="center">
-  <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
   <code><img height="25" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
   <code><img height="25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
   <code><img height="25" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+  <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+  <code><img height="25" src="https://img.shields.io/badge/AIOGRAM-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
   <code><img height="25" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></code>
   <code><img height="25" src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"></code>
 </p>
