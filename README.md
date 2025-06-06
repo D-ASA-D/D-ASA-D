@@ -1,27 +1,69 @@
-<h1 align="center">⚡️ D-ASA-D ⚡️</h1>
-<h3 align="center">👨‍💻 CEO of <a href="https://braverto.com" target="_blank">braverto.com</a></h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ff&height=120&section=header&text=D-ASA-D&fontColor=000&fontSize=48&desc=CEO%20of%20braverto.com&descSize=18&descAlignY=65"/>
+</p>
+
+<h3 align="center">🚀 Добро пожаловать в мой GitHub-профиль!</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00fff7&height=100&section=header&text=Welcome!&fontColor=000000&fontSize=35&animation=twinkling" />
+  <b>Разработчик, предприниматель, и энтузиаст цифровых технологий</b><br>
+  Создаю IT-продукты будущего — от нейросетей до Telegram-ботов и автоматизации процессов.
 </p>
 
 ---
 
-### 🧠 Обо мне
+<h3 align="center">📬 Связаться со мной</h3>
 
-Привет! Я **D-ASA-D**, разработчик, предприниматель и основатель IT-компании [braverto.com](https://braverto.com), которая разрабатывает инновационные цифровые продукты.  
-Я работаю в сферах:
+<p align="center">
+  <a href="https://t.me/your_telegram_username">
+    <img src="https://img.shields.io/badge/Telegram-@your_telegram_username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yourname@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://braverto.com">
+    <img src="https://img.shields.io/badge/Website-braverto.com-00fff7?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+  <a href="https://github.com/D-ASA-D">
+    <img src="https://img.shields.io/badge/GitHub-D--ASA--D-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🤖 ИИ и машинное обучение  
-- ⚙️ Автоматизация бизнес-процессов  
-- 🤖 Telegram-боты  
-- 🌐 Веб-приложения  
-- 🚀 Стартап-инжиниринг
+<p align="center">
+  <a href="https://t.me/your_telegram_username">
+    <img src="https://img.shields.io/badge/Chat%20via-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20me-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🧰 Технологии и стек
-```txt
-💻 Python | Java (Spring) | C++ | HTML/CSS | JavaScript
-🧠 TensorFlow | Keras | PyQt5 | Git | REST APIs
-🌐 FastAPI | Flask | PostgreSQL | Docker
+<h3 align="center">🧠 Стек и интересы</h3>
+
+<p align="center">
+  <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+  <code><img height="25" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+  <code><img height="25" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
+  <code><img height="25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
+  <code><img height="25" src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"></code>
+  <code><img height="25" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></code>
+</p>
+
+---
+
+<h3 align="center">📈 GitHub Статистика</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D-ASA-D&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-ASA-D&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Создаю технологии, чтобы менять мир.”</i>
+</p>
