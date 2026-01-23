@@ -1,13 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ff&height=120&section=header&text=D-ASA-D&fontColor=000&fontSize=48&desc=Team+Lead%20of%20braverto.com%0A%20%20&descSize=18&descAlignY=70"/>
-</p>
 
 <h3 align="center">🚀 Welcome to My GitHub Profile</h3>
-
-<p align="center">
-  <b>Developer • Founder • Digital Innovator</b><br>
-  I build futuristic IT solutions — from neural networks and bots to business automation and startup systems.
-</p>
 
 ---
 
