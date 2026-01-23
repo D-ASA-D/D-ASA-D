@@ -57,9 +57,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-ASA-D&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-<p align="center">
-  <i>“Creating technologies to change the world.”</i>
-</p>
